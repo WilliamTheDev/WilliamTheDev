@@ -1,16 +1,14 @@
-### Hi there 👋
+![Hello, I'm WilliamTheDev. I like to make things]
 
-<!--
-**WilliamTheDev/WilliamTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About
+![](https://img.shields.io/badge/Languages-JavaScript%20%2B%20HTML%2FCSS-blue) ![](https://img.shields.io/badge/Editor-Visual-studio-code-blue) ![](https://img.shields.io/badge/Browser-Chrome-blue) ![](https://img.shields.io/badge/Hosting-Glitch-blue)
 
-Here are some ideas to get you started:
+*"I likes to help people make their ideas come to life with the power of programming" - WilliamTheDev*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Website** » [WilliamTheDev.ml](https://williamthedev.glitch.me/)
+
+**Minecraft Server** » [InverseGames.ml](https://inversegames.ml)
+
+
+
+
