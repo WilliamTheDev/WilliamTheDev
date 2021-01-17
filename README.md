@@ -7,7 +7,8 @@
 
 **My Website** » [WilliamTheDev.ml](https://williamthedev.glitch.me/)
 
-**Minecraft Server** » [InverseGames.ml](https://inversegames.ml)
+**Glados Discord Website** » Comming Soon
+
 
 
 
