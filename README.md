@@ -5,7 +5,7 @@
 
 *"I likes to help people make their ideas come to life with the power of programming" - WilliamTheDev 2020*
 
-**My Website** » [WilliamTheDev.ml](https://williamthedev.glitch.me/)
+**My Website** » [WilliamTheDev.ml](https://williamthedev.ml/)
 
 **Glados Discord Website** » Comming Soon
 
