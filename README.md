@@ -10,7 +10,10 @@
 
 # My Websites
 
-**My Website** » [WilliamTheDev.ml](https://williamthedev.ml/) **(As of the 20th this website will be down for maintenance)**
+**My Website** » [WilliamTheDev.ml](https://williamthedev.ml/) 
+**(As of the 20th this website will be down for maintenance)**
+- I'm adding responsive web design and updating my projects section and about section. I'm also adding a another page.
+
 
 **Glados Discord Website** » [Gladosbot.ml](https://http://www.gladosbot.ml)
 
