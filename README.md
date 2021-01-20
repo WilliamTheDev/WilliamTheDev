@@ -10,9 +10,9 @@
 
 # My Websites
 
-**My Website** » [WilliamTheDev.ml](https://williamthedev.ml/)
+**My Website** » [WilliamTheDev.ml](https://williamthedev.ml/) **(As of the 20th this website will be down for maintenance)**
 
-**Glados Discord Website** » [Gladosbot.ml](https://http://www.gladosbot.ml) **(As of the 20th this website will be down for maintenance)**
+**Glados Discord Website** » [Gladosbot.ml](https://http://www.gladosbot.ml)
 
 
 
