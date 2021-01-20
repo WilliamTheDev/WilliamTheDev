@@ -1,8 +1,9 @@
 ![](https://cdn.glitch.com/233efcda-1f98-4551-9b2e-8792c9934f1a%2FWilliamTheDev%20sigin1.png?v=1605280403318)
 
 # About
-![](https://img.shields.io/badge/Languages-JavaScript%20%2B%20HTML%2FCSS-blue) ![](https://img.shields.io/badge/Editor-Visual-studio-code-blue) ![](https://img.shields.io/badge/Browser-Chrome-blue) ![](https://img.shields.io/badge/Hosting-Glitch-blue)
 
+**Programming Langauges**
+![.](https://camo.githubusercontent.com/870bd310338489acd87c77a1e6c07e6e0cf4cdce97c8dd1652b15c29787236dc/68747470733a2f2f63646e2e676c697463682e636f6d2f31376561656638642d633234382d343962352d383164612d34356532336364633062313225324669636f6e73382d68746d6c2d352d34382e706e67) ![](https://camo.githubusercontent.com/8e82405540ef0f71bd2c1808991490a632e59dab13a264e01a903084cb0b9c98/68747470733a2f2f63646e2e676c697463682e636f6d2f31376561656638642d633234382d343962352d383164612d34356532336364633062313225324669636f6e73382d637373332d34382e706e67) 
 *"I likes to help people make their ideas come to life with the power of programming" - WilliamTheDev 2020*
 
 **My Website** » [WilliamTheDev.ml](https://williamthedev.ml/)
