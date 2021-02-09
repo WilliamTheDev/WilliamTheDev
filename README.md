@@ -15,7 +15,7 @@
 - I'm adding responsive web design and updating my projects section and about section. I'm also adding an another page to the website.
 
 
-**Glados Discord bot Website** » [Gladosbot.ml](https://http://www.gladosbot.ml)
+**Glados Discord bot Website** » [Gladosbot.ml](https://www.gladosbot.ml)
 
 
 
