@@ -6,7 +6,7 @@
 
 # Why I program
 
-*"I likes to help people make their ideas come to life with the power of programming" - WilliamTheDev 2021*
+*"I likes to help people make their ideas come to life with the power of programming" - WilliamTheDev 2018*
 
 # My Websites
 
