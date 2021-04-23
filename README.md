@@ -11,9 +11,7 @@
 # My Websites
 
 **My Website** » [WilliamTheDev.ml](https://williamthedev.ml/) 
-**(As of the 20th this website will be down for maintenance)**
-- I'm adding responsive web design and updating my projects section and about section. I'm also adding an another page to the website.
-
+Done!
 
 **Glados Discord bot Website** » [Gladosbot.ml](https://www.gladosbot.ml)
 
