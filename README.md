@@ -10,7 +10,7 @@
 
 # My Websites
 
-**My company** » [bowley.ml](https://bowley.ml/) (Testing V0.1)
+**My company** » [bowley.ml](https://bowley.ml/) (Testing V1)
 
 **My Website** » [WilliamTheDev.ml](https://williamthedev.ml/) 
 Done!
